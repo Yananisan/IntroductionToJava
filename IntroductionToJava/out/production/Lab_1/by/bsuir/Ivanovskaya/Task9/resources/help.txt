@@ -1,0 +1,15 @@
+javac Main.java -d new
+
+javac runner\*.java bean\*.java -d new
+jar cfe Balls.jar runner/Balls runner/Balls.class bean
+java -jar ./Lab_1.jar
+
+jar cfe main.jar Main Main.class bean
+
+java -jar main.jar
+
+
+
+javac runner\*.java bean\*.java
+
+F:\ВТ>java -cp Lab_1\src by.bsuir.Ivanovskaya.Task9.runner.Balls

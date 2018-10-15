@@ -1,0 +1,862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Lab_1:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a1e4d90e-2839-4b98-9f2a-e664a855abf4" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-996984214">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="10" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.13" value="3" />
+          <entry key="project.open.time.16" value="3" />
+          <entry key="project.open.time.17" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="11" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="2" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="104" />
+          <entry key="txt" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="JAVA" value="104" />
+          <entry key="PLAIN_TEXT" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="66" />
+          <entry key="java" value="1921" />
+          <entry key="txt" value="43" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="1921" />
+          <entry key="PLAIN_TEXT" value="109" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-1486291531">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.18" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="2040294730">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/resources/help.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest_Task9.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="34">
+              <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/runner/Balls.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="357">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task1/MathEx/calculate/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task1/test/CalculateTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task1/MathEx/runner/MathEx.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task1/MathEx/util/ConsoleReader.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task2/test/CalculateTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task3/src/main/java/Calculate/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task3/Calculate/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task3/util/ConsoleReader.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task3/runner/FuncDistInTable.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task3/test/CalculateTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task4/runner/NaturalNumbInArray.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task4/util/ConsoleReader.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task4/test/CalculateTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task5/test/CalculateTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task5/util/ConsoleReader.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task5/runner/CounterOfDeleteNumb.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task2/calculate/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task2/runner/ShadedArea.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task2/util/ConsoleReader.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task4/calculate/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task6/util/ConsoleReader.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task6/runner/SquareMatrix.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task7/util/ConsoleReader.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task7/runner/ShellaSort.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task6/calculate/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task6/test/CalculateTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task7/calculate/CalculateTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task7/calculate/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task7/test/CalculateTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task8/util/ConsoleReader.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task8/runner/InputIndexes.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task8/calculate/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task8/test/CalculateTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest_Task1.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/by/bsuir/Ivanovskaya/Task5/calculate/CalculateTest_Task5.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest_Task5.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task5/calculate/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task1/calculate/Calculate.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/src/test/java/array/CalculateTest.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/src/main/java/Main.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/src/main/java/Balls.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/src/main/java/runner/Balls.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/bean/Ball.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/bean/Color.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/bean/Basket.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/util/ParamReader.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest_Task9.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/util/ConsoleReader.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/runner/Balls.java" />
+        <option value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/resources/help.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="1690" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>ImportsJava</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>UNUSED_IMPORT</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="ContributionToJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ContributionToJava" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ContributionToJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ContributionToJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ContributionToJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ContributionToJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="Ivanovskaya" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="lab_1" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1539427749133" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
+    <property name="create.test.in.the.same.root" value="true" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task8/test" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="by.bsuir.Ivanovskaya.Task5.calculate" />
+      <recent name="by.bsuir.Ivanovskaya.Task7.calculate" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="by.bsuir.Ivanovskaya.Task9.util" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\ВТ\Lab_1" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JAR Application.Lab_1.jar">
+    <configuration name="Balls" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.Ivanovskaya.Task9.runner.Balls" />
+      <module name="IntroductionToJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.Ivanovskaya.Task9.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CounterOfDeleteNumb" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="by.bsuir.Ivanovskaya.Task5.runner.CounterOfDeleteNumb" />
+      <module name="IntroductionToJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="by.bsuir.Ivanovskaya.Task5.runner.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="All in Lab_1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntroductionToJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculateTest_Task9" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="IntroductionToJava" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="CalculateTest_Task9" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lab_1.jar" type="JarApplication" factoryName="JAR Application" temporary="true">
+      <option name="JAR_PATH" value="$PROJECT_DIR$/out/artifacts/Lab_1_jar/Lab_1.jar" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Application.CounterOfDeleteNumb" />
+      <item itemvalue="JUnit.All in Lab_1" />
+      <item itemvalue="JUnit.CalculateTest_Task9" />
+      <item itemvalue="Application.Balls" />
+      <item itemvalue="JAR Application.Lab_1.jar" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JAR Application.Lab_1.jar" />
+        <item itemvalue="Application.Balls" />
+        <item itemvalue="JUnit.CalculateTest_Task9" />
+        <item itemvalue="JUnit.All in Lab_1" />
+        <item itemvalue="Application.CounterOfDeleteNumb" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a1e4d90e-2839-4b98-9f2a-e664a855abf4" name="Default Changelist" comment="" />
+      <created>1539008802975</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1539008802975</updated>
+      <workItem from="1539008807604" duration="5932000" />
+      <workItem from="1539014856697" duration="962000" />
+      <workItem from="1539015859685" duration="427000" />
+      <workItem from="1539016316039" duration="2621000" />
+      <workItem from="1539029566919" duration="374000" />
+      <workItem from="1539029973188" duration="481000" />
+      <workItem from="1539030489787" duration="1762000" />
+      <workItem from="1539032506811" duration="319000" />
+      <workItem from="1539260800932" duration="10065000" />
+      <workItem from="1539423587086" duration="2111000" />
+      <workItem from="1539428283120" duration="98000" />
+      <workItem from="1539592353797" duration="77000" />
+      <workItem from="1539592895996" duration="37000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CalculateTest_Task2 - 2018.10.08 at 23h 46m 51s.xml">
+      <configuration name="CalculateTest_Task2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculateTest_Task3 - 2018.10.08 at 23h 46m 57s.xml">
+      <configuration name="CalculateTest_Task3" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculateTest_Task4 - 2018.10.08 at 23h 47m 03s.xml">
+      <configuration name="CalculateTest_Task4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculateTest_Task6 - 2018.10.08 at 23h 47m 27s.xml">
+      <configuration name="CalculateTest_Task6" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculateTest_Task7 - 2018.10.08 at 23h 47m 33s.xml">
+      <configuration name="CalculateTest_Task7" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculateTest_Task8 - 2018.10.08 at 23h 47m 38s.xml">
+      <configuration name="CalculateTest_Task8" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculateTest_Task5_calculate - 2018.10.08 at 23h 52m 42s.xml">
+      <configuration name="CalculateTest_Task5.calculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculateTest_Task5_calculate - 2018.10.08 at 23h 53m 38s.xml">
+      <configuration name="CalculateTest_Task5.calculate" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="All_in_Lab_1 - 2018.10.11 at 15h 30m 50s.xml">
+      <configuration name="All in Lab_1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculateTest_Task9 - 2018.10.11 at 15h 42m 48s.xml">
+      <configuration name="CalculateTest_Task9" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="25266000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2946309" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329429" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3601757" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39970717" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" visible="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.329429" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Image Layers" order="0" />
+      <window_info id="Designer" order="1" />
+      <window_info id="UI Designer" order="2" />
+      <window_info id="Learn" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info content_ui="combo" id="Project" order="6" visible="true" weight="0.24966443" />
+      <window_info id="Structure" order="7" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="2" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="3" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Messages" order="4" weight="0.329429" />
+      <window_info anchor="bottom" id="Message" order="5" />
+      <window_info anchor="bottom" id="Find" order="6" weight="0.329429" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.329429" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="11" />
+      <window_info anchor="right" id="Palette" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="6" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task4/util/ConsoleReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="2" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task5/test/CalculateTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task4/runner/NaturalNumbInArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task2/calculate/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="52" selection-end-line="4" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task2/util/ConsoleReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task2/runner/ShadedArea.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="14" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task3/calculate/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task3/runner/FuncDistInTable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task3/util/ConsoleReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task4/calculate/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="52" selection-start-line="8" selection-start-column="52" selection-end-line="8" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task5/util/ConsoleReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/Assert.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="27" column="89" selection-start-line="27" selection-start-column="89" selection-end-line="27" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task7/calculate/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="289">
+          <caret line="17" column="32" selection-start-line="17" selection-start-column="32" selection-end-line="17" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task6/runner/SquareMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task8/calculate/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task7/runner/ShellaSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task7/util/ConsoleReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task5/runner/CounterOfDeleteNumb.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task5/calculate/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task6/calculate/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task6/util/ConsoleReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task1/runner/MathEx.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="7" lean-forward="true" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest_Task1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest_Task2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="12" column="5" lean-forward="true" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest_Task3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="6" column="9" lean-forward="true" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest_Task4.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest_Task5.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest_Task6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest_Task7.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest_Task8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task1/util/ConsoleReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/src/test/java/bean/BasketTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/src/main/java/Calculate/Calculate.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/bean/Ball.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task8/runner/InputIndexes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/util/ParamReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task1/calculate/Calculate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="17" column="42" selection-start-line="17" selection-start-column="42" selection-end-line="17" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/bean/Basket.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="179">
+          <caret line="28" column="45" selection-start-line="28" selection-start-column="45" selection-end-line="28" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/bean/Color.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/util/ConsoleReader.java" />
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task8/util/ConsoleReader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/runner/Balls.class">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task8/task8.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/resources/help.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="8" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/test/CalculateTest_Task9.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/by/bsuir/Ivanovskaya/Task9/runner/Balls.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="357">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>Lab_1:jar</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Lab_1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
